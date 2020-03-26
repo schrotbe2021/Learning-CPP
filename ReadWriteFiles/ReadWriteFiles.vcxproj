@@ -140,6 +140,9 @@
   <ItemGroup>
     <ClCompile Include="ReadWrite.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="file.dat" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
